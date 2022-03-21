@@ -1,3 +1,4 @@
 * SOLO LEARN
 * NDG LINUX
+* Get started with GIT
 * FIRST DAY GITHUB
